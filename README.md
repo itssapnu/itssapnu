@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- I’m currently a student
-- I’m currently learning some programming languages
-- I’m looking for help with some junior or senior developer and professors
+I’m currently a student and learning some programming languages
+I mostly work at backend and databases
+This is my student profile where I'll be uploading some of my projects and experiment things I'm currently working on.
